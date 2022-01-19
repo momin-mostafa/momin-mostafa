@@ -11,3 +11,7 @@ momin-mostafa/momin-mostafa is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=momin-mostafa)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=momin-mostafa)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub metrics](https://metrics.lecoq.io/momin-mostafa) 
