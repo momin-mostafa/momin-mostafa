@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning C++,Flutter,Dart
 - 💞️ I’m looking to collaborate on C++ and Flutter projects
 - 📫 How to reach me : You can mail me @ mominmostafa.g@gmail.com
+- 📫 Work mail : mominmostafa.g@outlook.com
 - ✒️ Resume : https://drive.google.com/file/d/1JNVwLc_xGmnSRjWwvMPSGi-LqMNknpTN/view?usp=sharing
 - 💒 Education : Bachelors in Computer Science and Information Technology.  
 
