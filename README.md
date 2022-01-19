@@ -12,6 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=momin-mostafa)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=momin-mostafa)](https://github.com/ryo-ma/github-profile-trophy)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=momin-mostafa&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=momin-mostafa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub metrics](https://metrics.lecoq.io/momin-mostafa) 
