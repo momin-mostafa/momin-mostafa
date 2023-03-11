@@ -7,7 +7,7 @@
 - ✒️ Resume : [https://drive.google.com/file/d/1JNVwLc_xGmnSRjWwvMPSGi-LqMNknpTN/view?usp=sharing](https://drive.google.com/file/d/1dJ7AGzPcotVzyrFxXOSZmAiP0RZ7elUd/view?usp=sharing)
 - 💒 Education : Bachelors in Computer Science and Information Technology.  
 
- <a href="#programming-languages"><img src="https://img.shields.io/badge/Pyth    on-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/></a>
+ <a href="#programming-languages"><img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/></a>
 
 <!---
 momin-mostafa/momin-mostafa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
