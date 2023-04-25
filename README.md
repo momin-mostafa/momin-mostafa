@@ -7,6 +7,8 @@
 - ✒️ Resume : [https://drive.google.com/file/d/1JNVwLc_xGmnSRjWwvMPSGi-LqMNknpTN/view?usp=sharing](https://drive.google.com/file/d/1dJ7AGzPcotVzyrFxXOSZmAiP0RZ7elUd/view?usp=sharing)
 - 💒 Education : Bachelors in Computer Science and Information Technology.  
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=momin-mostafa)](https://github.com/ryo-ma/github-profile-trophy)
+
  <a href="#programming-languages"><img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/></a>
  <a href="#programming-languages"><img src="https://img.shields.io/badge/Dart-3776AB.svg?style=for-the-badge&logo=Dart&logoColor=white"/></a>
  <a href="#programming-languages"><img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=white"/></a>
