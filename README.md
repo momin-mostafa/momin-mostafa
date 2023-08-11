@@ -8,12 +8,16 @@
 - 💒 Education : Bachelors in Computer Science and Information Technology.  
 
 
- <a href="#programming-languages"><img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/></a>
- <a href="#programming-languages"><img src="https://img.shields.io/badge/Dart-3776AB.svg?style=for-the-badge&logo=Dart&logoColor=white"/></a>
+ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+ ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
  <a href="#programming-languages"><img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=white"/></a>
  <a href="#programming-languages"><img src="https://img.shields.io/badge/C++-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black"/></a>
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
   ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+
+
 
 
 
