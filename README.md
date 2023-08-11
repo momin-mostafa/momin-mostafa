@@ -12,7 +12,7 @@
  <a href="#programming-languages"><img src="https://img.shields.io/badge/Dart-3776AB.svg?style=for-the-badge&logo=Dart&logoColor=white"/></a>
  <a href="#programming-languages"><img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=white"/></a>
  <a href="#programming-languages"><img src="https://img.shields.io/badge/C++-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black"/></a>
-  <a href="#programming-languages"><img src="https://img.shields.io/badge/C#-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black"/></a>
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 <!---
 momin-mostafa/momin-mostafa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
