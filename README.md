@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @momin-mostafa
-- 👀 I’m interested in softwere engineering
-- 🌱 I’m currently learning Dart, Go, lua
-- 💞️ I’m looking to collaborate on Flutter node.js projects
+- 👀 I’m interested in softwere engineering -> Mobile Application Development
 - 📫 How to reach me : You can mail me @ mominmostafa.g@outlook.com
 - ✒️ Resume : [resume](https://drive.google.com/file/d/1nWWpVLPe9nUexMYdPH61g0szl1GZB7Qv/view?usp=share_link)
 - 💒 Education : BSc(Hons) in Computer Science and Information Technology.  
