@@ -1,21 +1,35 @@
 - 👋 Hi, I’m @momin-mostafa
-- 👀 I’m interested in softwere developing
-- 🌱 I’m currently learning Flutter,Dart,C#,.net
-- 💞️ I’m looking to collaborate on C++ and Flutter projects
-- 📫 How to reach me : You can mail me @ mominmostafa.g@gmail.com
-- 📫 Work mail : mominmostafa.g@outlook.com
-- ✒️ Resume : [resume](https://drive.google.com/file/d/1i2Gl2UPMLo3MAIwkXdffHsUbVaCqkPoO/view?usp=sharing)
-- 💒 Education : Bachelors in Computer Science and Information Technology.  
+- 👀 I’m interested in softwere engineering
+- 🌱 I’m currently learning Dart, Go, lua
+- 💞️ I’m looking to collaborate on Flutter node.js projects
+- 📫 How to reach me : You can mail me @ mominmostafa.g@outlook.com
+- ✒️ Resume : [resume](https://drive.google.com/file/d/1nWWpVLPe9nUexMYdPH61g0szl1GZB7Qv/view?usp=share_link)
+- 💒 Education : BSc(Hons) in Computer Science and Information Technology.  
 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
- ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
- <a href="#programming-languages"><img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=white"/></a>
- <a href="#programming-languages"><img src="https://img.shields.io/badge/C++-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black"/></a>
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-  ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+Languages I use mostly:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+Frameworks I work with on day to day basis:
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+IDEs I use : 
+![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+
+Authors I enjoy reading :
+- [Robert C. Martin](http://cleancoder.com/products) aka uncle bob
+- [Martin Fowler](https://martinfowler.com)
+- GOF
+- [Al Sweigart](https://automatetheboringstuff.com)
+- [Stoyan Stefanov](https://www.oreilly.com/pub/au/4593)
 
 
 
