@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @momin-mostafa
 - 👀 I’m interested in softwere engineering -> Mobile Application Development
 - 📫 How to reach me : You can mail me @ mominmostafa.g@outlook.com
-- ✒️ Resume : [resume](https://drive.google.com/file/d/1nWWpVLPe9nUexMYdPH61g0szl1GZB7Qv/view?usp=share_link)
+- [🤝 linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) : https://www.linkedin.com/in/al-momin-mostafa-71030715b/
 - 💒 Education : BSc(Hons) in Computer Science and Information Technology.  
 
 ## Languages I use mostly:  
