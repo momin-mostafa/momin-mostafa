@@ -22,7 +22,7 @@
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
-Authors I enjoy reading :
+## Authors I enjoy reading :
 - [Robert C. Martin](http://cleancoder.com/products) aka uncle bob
 - [Martin Fowler](https://martinfowler.com)
 - GOF
