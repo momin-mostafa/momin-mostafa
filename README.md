@@ -3,7 +3,7 @@
 - 📫 How to reach me : You can mail me @ mominmostafa.g@outlook.com
 - 💒 Education : BSc(Hons) in Computer Science and Information Technology.
 - [🤝 linkedIn](https://www.linkedin.com/in/al-momin-mostafa-71030715b/) : https://www.linkedin.com/in/al-momin-mostafa-71030715b/
-- [Personal blogs](https://momin-mostafa.github.io/blog-go-novice/) : checkout my blogs to know how I learn
+- [Personal blogs](https://momin-mostafa.github.io/go-novice-blog/) : checkout my blogs to know how I learn
 
 ## Languages I use mostly:  
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
