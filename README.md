@@ -2,7 +2,7 @@
 - 👀 I’m interested in softwere engineering -> Mobile Application Development
 - 📫 How to reach me : You can mail me @ mominmostafa.g@outlook.com
 - 💒 Education : BSc(Hons) in Computer Science and Information Technology.
-- [🤝 linkedIn](https://www.linkedin.com/in/al-momin-mostafa-71030715b/) : https://www.linkedin.com/in/al-momin-mostafa-71030715b/
+- [🤝 linkedIn](https://www.linkedin.com/in/al-momin-mostafa/) : https://www.linkedin.com/in/al-momin-mostafa/
 - [Personal blogs](https://momin-mostafa.github.io/go-novice-blog/) : checkout my blogs to know how I learn
 
 ## Languages I use mostly:  
